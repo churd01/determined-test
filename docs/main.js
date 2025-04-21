@@ -28,5 +28,5 @@ async function loadScene(sceneId) {
     });
   }
   
-  loadScene("scene-001");
+  loadScene("scene-000");
   
